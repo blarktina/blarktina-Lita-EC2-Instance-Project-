@@ -16,10 +16,11 @@
 ### The EC2 instace launced
 #### while createing the EC2 instance I Named my EC2 intance, I made use of the VPC that was created for me.The EC2 is seated on Amazonlinux2AMI and the EC2 type is t2.micro. below are the details of the EC2 instance launced
 
-![EC2image](/Ec2.png)
+![EC2image](/launchinstace)
 ![EC2image1](/amazonlinux2.png)
 ![EC2image2](/instancetype.png)
-![EC2image3](/Ec2launce.png)
+![EC2image3](/Ec2.png)
+![Ec2image4](Ec2launch.png)
 
 
 ### Apache Web Server Installation

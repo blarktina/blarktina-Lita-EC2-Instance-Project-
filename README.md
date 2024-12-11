@@ -10,7 +10,7 @@
 
 ### The EC2 instace launced
 #### while createing the EC2 instance I Named my EC2 intance, I made use of the VPC that was created for me.The EC2 is seated on Amazonlinux2AMI and the EC2 type is t2.micro. below are the details of the EC2 instance launced
-! [EC2image] [/Ec2.png] [/amazonlinux2.png] [/instancetype.png] [/instancelauce.png]
+! [EC2image] (/Ec2.png) (/amazonlinux2.png) (/instancetype.png) (/instancelauce.png)
 
 ### Apache Web Server Installation
 #### I Run the following commands on the EC2 instance:
@@ -20,7 +20,7 @@ sudo yum install httpd -y
 sudo systemctl start httpd
 sudo systemctl enable httpd
 below is the details of the Apache webserver installation
-[EC2connect.png] [/install2.ng] [/Installingapache.png] [/Apache.png]
+[EC2connect.png] [/install2.png] [/Installingapache.png] [/Apache.png]
 
 
 

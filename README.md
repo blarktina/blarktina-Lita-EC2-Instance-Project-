@@ -1,22 +1,22 @@
 # blarktina-Lita-EC2-Instance-Project
-## This project documents the process of how I launced an EC2 instance to host the Apache web server for smartshop
+## This project documents the process of how I launched an EC2 instance to host the Apache web server for smartshop
 ### Keypair creation
-#### I created a keypair for the EC2 instace, below is the keypair details 
+#### I created a keypair for the EC2 instance, below is the keypair details 
 
 ![keypairimage](/keypair1.png)
 ![keypairimage2](/keypair.png)
 
 
 ### Security group creation
-#### I create a security group for the EC2 instace, below is the details of the security group I created
+#### I create a security group for the EC2 instance, below is the details of the security group I created
 
 ![securityimage](/securitygroup1.png)
-![securityimage2](/Securitygroup.png)
+![securityimage2](/securitygroup.png)
 
-### The EC2 instace launced
-#### while createing the EC2 instance I Named my EC2 intance, I made use of the VPC that was created for me.The EC2 is seated on Amazonlinux2AMI and the EC2 type is t2.micro. below are the details of the EC2 instance launced
+### The EC2 instance launched
+#### while createing the EC2 instance I Named my EC2 intance, I made use of the VPC that was created for me.The EC2 is seated on Amazonlinux2AMI and the EC2 type is t2.micro. below are the details of the EC2 instance launched
 
-![EC2image](/launchinstace)
+![EC2image](/launchinstance.png)
 ![EC2image1](/amazonlinux2.png)
 ![EC2image2](/instancetype.png)
 ![EC2image3](/Ec2.png)

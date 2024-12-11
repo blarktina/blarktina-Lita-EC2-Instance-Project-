@@ -2,7 +2,7 @@
 ## This project documents the process of how I launced an EC2 instance to host the Apache web server for smartshop
 ### Keypair creation
 #### I created a keypair for the EC2 instace, below is the keypair details 
-! [keypairimage] [/Keypair1.png] [/Keypair.pn]
+! [keypairimage] (/Keypair1.png) (/Keypair.png)
 
 ### Security group creation
 #### I create a security group for the EC2 instace, below is the details of the security group I created
